@@ -1,0 +1,5 @@
+<name>Ginza Sushi and Ramen Bar</name>
+<address>1015 Michigan St NE, Grand Rapids, MI 49503</address>
+<overview>good food good service, the space is cleaned, servers are nice, ramen is the best</overview>
+<contactNumber>(616) 272-4116</contactNumber>
+<rating>4.5/5</rating>
