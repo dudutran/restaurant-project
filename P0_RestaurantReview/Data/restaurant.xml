@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Res>
+    <name>GinZa Sushi and Ramen Bar</name>
+    <address>2511 Walker</address>
+    <overview>good food good service, the space is cleaned, servers are nice, ramen is the best</overview>
+    <contactNumber>123-456-8906</contactNumber>
+    <rating>4.5/5</rating>
+  </Res>
+  <Res>
+    <name>Sapporo Sushi and Ramen Bar</name>
+    <address>28th street</address>
+    <overview>good food good service, the space is cleaned, servers are nice, ramen is the best</overview>
+    <contactNumber>000-456-2000</contactNumber>
+    <rating>4.0/5</rating>
+  </Res>
+</ArrayOfRes>
